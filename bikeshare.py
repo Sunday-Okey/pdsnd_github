@@ -12,8 +12,6 @@ CITY_DATA = {
 # Refactoring
 
 """
-I've condensed all the user prompt-related redundancies using the prompt_user function. 
-This should make the code clearer and easier to understand.
 
 Here's a refactored version of the code to make it more organized and a bit cleaner:
 
@@ -285,3 +283,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+"""
+I've condensed all the user prompt-related redundancies using the prompt_user function. 
+This should make the code clearer and easier to understand.
+"""
