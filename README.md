@@ -44,7 +44,7 @@ I will use  three city dataset files too:
 
 ### Credits
 
-[Udcaciy](https://www.udacity.com/enrollment/nd104/5.0.13)
+[Udacity](https://www.udacity.com/enrollment/nd104/5.0.13)
 
 ![](image.png)
 
