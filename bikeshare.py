@@ -287,4 +287,5 @@ if __name__ == "__main__":
 """
 I've condensed all the user prompt-related redundancies using the prompt_user function. 
 This should make the code clearer and easier to understand.
+git commit -m "refactor: I condensed all the user prompt-related redundancies using the prompt_user function"
 """
